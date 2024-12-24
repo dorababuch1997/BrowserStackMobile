@@ -1,0 +1,14 @@
+userName: chodavarapudorab_MvDaHL
+accessKey: fnJdRVmUEQWoqb3cAYUp
+app: bs://36284ca6472004e29139e57381e788649632ff2b
+
+platforms:
+  - platformName: android
+    platformVersion: "12.0"
+    deviceName: Samsung Galaxy S22 Ultra
+    browserName: Chrome  # Specify Chrome browser
+    real_mobile: true
+
+parallelsPerPlatform: 1
+buildName: Chrome Browser Testing
+projectName: Chrome Automation Project
