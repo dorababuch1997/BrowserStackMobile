@@ -22,7 +22,7 @@ public class AppiumTest {
     public void setUp() throws Exception {
         MutableCapabilities capabilities = new UiAutomator2Options();
         driver = new AppiumDriver(new URL("http://127.0.0.1:4723/wd/hub"),capabilities);
-        
+
     }
 
 //    @AfterMethod(alwaysRun=true)
